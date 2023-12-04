@@ -1,0 +1,63 @@
+body {
+  background-color: #2C2B3C;
+}
+
+h1 {
+  font-family: "Trebuchet MS";
+  color: white;
+}
+
+h2:hover, h3:hover, h4:hover, h5:hover, h6:hover {
+  color: darkslateblue;
+}
+
+.top {
+  background-color: #121420;
+  padding: 1px;
+  border-radius: 45px 15px;
+  width: 350px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+  float: none;
+}
+
+.back {
+  background-color: #121420;
+  padding: 1px;
+  border-radius: 25px;
+  width: 100px;
+  text-align: center;
+  margin-right: 25px;
+  margin-top: -80px;
+  float: right;
+}
+
+.charts {
+  padding: 10px;
+  margin-left: 42px;
+}
+
+.twomilk {
+  width: 350px;
+  height: 124px;
+  background-color: #121420;
+  border-radius: 25px;
+  float: left;
+}
+
+
+img {
+  margin-left: 10px;
+  margin-top: 12px;
+  border-radius: 25px;
+}
+
+h2 {
+  font-family: "Trebuchet MS";
+  color: white;
+  margin-top: -75px;
+  margin-left: 115px;
+  font-size: 28px;
+}

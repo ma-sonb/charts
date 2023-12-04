@@ -1,0 +1,91 @@
+body {
+  background-color: #2C2B3C;
+}
+
+h1 {
+  font-family: "Trebuchet MS";
+  color: white;
+}
+
+.top {
+  background-color: #121420;
+  padding: 1px;
+  border-radius: 45px 15px;
+  width: 350px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+  float: none;
+}
+
+.back {
+  background-color: #121420;
+  padding: 1px;
+  border-radius: 25px;
+  width: 100px;
+  text-align: center;
+  margin-right: 25px;
+  margin-top: -80px;
+  float: right;
+}
+
+.voi {
+  padding: 10px;
+  margin: 0 auto;
+  position: absolute;
+  left: 35%;
+}
+
+.lsvo {
+  width: 350px;
+  height: 36px;
+  background-color: #121420;
+  border-radius: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.diff {
+  float: none;
+  position: absolute;
+  margin-top: 410px;
+}
+
+.genre {
+  margin-left: auto;
+  position: absolute;
+  margin-top: 500px;
+}
+
+.spotify {
+  float: right;
+}
+
+iframe {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+}
+
+h2 {
+  font-family: "Trebuchet MS";
+  color: white;
+  font-size: 28px;
+}
+
+h3 {
+  font-family: "Trebuchet MS";
+  color: white;
+  font-size: 28px;
+  margin-left: 10px;
+}
+
+img {
+  margin-left: 10px;
+  margin-top: 12px;
+  border-radius: 25px;
+  float: left;
+}
